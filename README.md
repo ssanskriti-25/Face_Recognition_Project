@@ -21,6 +21,7 @@ This project will detect the live faces through the webcam by searching the face
   -> datetime
   
 4.Clone my git repository to a directory in your device using : git clone command.
+
 5.Run the code file- AttendanceProject.py in your visual stdio.
 
 ## Note
