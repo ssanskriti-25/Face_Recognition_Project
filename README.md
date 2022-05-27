@@ -8,6 +8,7 @@ This project will detect the live faces through the webcam by searching the face
 2.Install VISUAL STUDIO Community Edition from 'https://visualstudio.microsoft.com/downloads/' and install plugins for PYTHON development and C++ Desktop Development(important).
 
 3.Packages to install to run the code
+
   -> opencv-python
   
   -> numpy
