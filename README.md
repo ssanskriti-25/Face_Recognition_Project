@@ -23,13 +23,16 @@ This project will detect the live faces through the webcam by searching the face
   
 4.Clone my git repository to a directory in your device using : git clone command.
 
+
 ![Screenshot (4)](https://user-images.githubusercontent.com/87524185/170824495-3fed93a5-b6e3-4051-8cbb-6b98787212b3.png)
  
 copy the link and open the git bash in the new directory created for this project and write git clone (paste the url copied above).
 
 
 5.Run the code file- main.py in your visual stdio.When we will run the code firstly the mylist will be printed and them the name of all the all the students present in the Images folder and then after that webcam opens and start detecting the face of the students and when the face got detected 'Welcome' will be printed in the terminal.
-![Screenshot (5)](https://user-images.githubusercontent.com/87524185/170824984-1836a1aa-91c4-4deb-85b5-e67c1b4537ea.png)
+
+
+![Screenshot (7)](https://user-images.githubusercontent.com/87524185/170825385-db5f5b00-0751-424d-a27c-969600b33052.png)
 
 
 6.Now to check whether the attendance got marked or not we will open the csv file of that particular day to check the name of students present on that day.
