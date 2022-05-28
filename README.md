@@ -23,6 +23,7 @@ This project will detect the live faces through the webcam by searching the face
   
 4.Clone my git repository to a directory in your device using : git clone command.
 
+![Screenshot (4)](https://user-images.githubusercontent.com/87524185/170824495-3fed93a5-b6e3-4051-8cbb-6b98787212b3.png)
 
 
 5.Run the code file- main.py in your visual stdio.
