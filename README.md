@@ -27,10 +27,14 @@ This project will detect the live faces through the webcam by searching the face
  
 copy the link and open the git bash in the new directory created for this project and write git clone (paste the url copied above).
 
-5.Run the code file- main.py in your visual stdio.When we will run the code firstly the mylist will print and them the name of all the all the students present in the Images folder and then after that webcam start detecting the face of the students and when the face get detected 'Welcome' will be printed in the terminal.
+
+5.Run the code file- main.py in your visual stdio.When we will run the code firstly the mylist will be printed and them the name of all the all the students present in the Images folder and then after that webcam opens and start detecting the face of the students and when the face got detected 'Welcome' will be printed in the terminal.
 ![Screenshot (5)](https://user-images.githubusercontent.com/87524185/170824984-1836a1aa-91c4-4deb-85b5-e67c1b4537ea.png)
 
+
 6.Now to check whether the attendance got marked or not we will open the csv file of that particular day to check the name of students present on that day.
+![Screenshot (6)](https://user-images.githubusercontent.com/87524185/170825291-2d2b668b-6e89-44c1-9238-13e8ec416836.png)
+
 
 ## Note
 To recognize new faces through the webcam add clear front facing images of the new faces in the 'Images' folder with the name of the image renamed to the name of the Person.
