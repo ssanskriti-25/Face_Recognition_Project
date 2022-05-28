@@ -9,17 +9,19 @@ This project will detect the live faces through the webcam by searching the face
 
 3.Packages to install to run the code
 
-  -> opencv-python
+  -> opencv-python  (pip install opencv-python)
   
-  -> numpy
+  -> numpy  (pip install numpy)
   
-  -> cmake
+  -> cmake  (pip install cmake)
   
-  -> dlib
+  -> dlib   (pip install https://github.com/jloh02/dlib/releases/download/v19.22/dlib-19.22.99-cp310-cp310-win_amd64.whl)
   
-  -> face-recognition
+  -> face-recognition  (pip install face_recognition)
   
-  -> datetime
+  -> datetime   (pip install datetime)
+  
+to install all the above packages open the command prompt and type the command written in the bracket in front of each.
   
 4.Clone my git repository to a directory in your device using : git clone command.
 
