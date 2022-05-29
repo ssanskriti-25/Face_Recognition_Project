@@ -52,3 +52,5 @@ copy the link and open the git bash in the new directory created for this projec
 -> To recognize new faces through the webcam add clear front facing images of the new faces in the 'Images' folder with the name of the image renamed to the name of the Person.
 
 -> The attendance of one students will be marked only once in the day regardless of their multiple time detection by the webcam.
+
+-> If the csv file for that day is already created then it will open in the read append mode otherwise it will be opened in the write and append mode and the new file is created for storing the data of the students.
