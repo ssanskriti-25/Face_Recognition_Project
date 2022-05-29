@@ -27,6 +27,8 @@ This is face recognition project which is used to mark the attendance of the stu
   
   -> datetime   (pip install datetime)
   
+  -> pillow     (pip install pillow)
+  
 to install all the above packages open the command prompt and type the command written in the bracket in front of each.
   
 4.Clone my git repository to a directory in your device using : git clone command.
