@@ -5,7 +5,7 @@ This project will detect the live faces through the webcam by searching the face
 
 # Project Description
 
-This is face recognition project which is used to mark the attendance of the students in schools and colleges. The entire code is written in python and to detect the face firstly i have stored the data of some students in the 'Images' folder and named their images with their actual name. The images saved get encoded and then during the detection process the webcam opens and then based on the encodings the name of the student will be shown in the rectangular box at the bottom of the face of the student. After the detection process, the data get stored in the attendence.csv file of that particular day.
+This is face recognition project which is used to mark the attendance of the students in schools and colleges. The entire code is written in python and for storing the data csv file is used and tkinter is used for the gui part and to detect the face firstly i have stored the data of some students in the 'Images' folder and named their images with their actual name. The images saved get encoded and then during the detection process the webcam opens and then based on the encodings the name of the student will be shown in the rectangular box at the bottom of the face of the student. After the detection process, the data get stored in the attendence.csv file of that particular day.
 
 # Steps to Run the Project
 
@@ -50,4 +50,4 @@ copy the link and open the git bash in the new directory created for this projec
 ## Note
 To recognize new faces through the webcam add clear front facing images of the new faces in the 'Images' folder with the name of the image renamed to the name of the Person.
 
-The attendance of one students will be marked only once in the day indead of detecting them whenever they come infront of the webcam. 
+The attendance of one students will be marked only once in the day regardless of their multiple time detection by the webcam.
