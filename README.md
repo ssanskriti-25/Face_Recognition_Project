@@ -1,11 +1,11 @@
 # Face_Recognition_Project
 
 This project can detect the live faces of the students and mark their attendance in the csv file.
-This project will detect the live faces through the webcam by searching the face in the 'Images' folder and after detecting the face it will create the new csv file for that day in case if not present and write the name , current time and the current date of the detected person in the file.
+This project will detect the live faces through the webcam by searching the face in the 'Images' folder and after detecting the face it will create the new csv file for that day and the name, current time and the current date of the detected person will be recorded in that file.
 
 # Project Description
 
-This is face recognition project which is used to mark the attendance of the students in schools and colleges. The entire code is written in python and to detect the face firstly i have store the data of some students in the 'Images' folder and named their images with their actual name. The images saved get encoded and then during the detection process the webcam opens and then based on the encodings determine the name of the student and show the name in the rectangular box at the bottom of the face of the student. After the detection process the data get stored in the attendence.csv file of that particular day.
+This is face recognition project which is used to mark the attendance of the students in schools and colleges. The entire code is written in python and to detect the face firstly i have stored the data of some students in the 'Images' folder and named their images with their actual name. The images saved get encoded and then during the detection process the webcam opens and then based on the encodings the name of the student will be shown in the rectangular box at the bottom of the face of the student. After the detection process, the data get stored in the attendence.csv file of that particular day.
 
 # Steps to Run the Project
 
