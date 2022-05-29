@@ -48,6 +48,7 @@ copy the link and open the git bash in the new directory created for this projec
 
 
 ## Note
-To recognize new faces through the webcam add clear front facing images of the new faces in the 'Images' folder with the name of the image renamed to the name of the Person.
 
-The attendance of one students will be marked only once in the day regardless of their multiple time detection by the webcam.
+-> To recognize new faces through the webcam add clear front facing images of the new faces in the 'Images' folder with the name of the image renamed to the name of the Person.
+
+-> The attendance of one students will be marked only once in the day regardless of their multiple time detection by the webcam.
